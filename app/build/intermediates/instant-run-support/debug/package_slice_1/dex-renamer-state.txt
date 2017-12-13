@@ -1,0 +1,4 @@
+#Wed Dec 13 02:54:32 MSK 2017
+base.0=/home/devvindan/pomodoro/app/build/intermediates/transforms/dexMerger/debug/39
+path.0=classes.dex
+renamed.0=classes.dex

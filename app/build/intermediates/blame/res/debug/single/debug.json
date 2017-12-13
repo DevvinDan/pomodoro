@@ -156,6 +156,10 @@
         "source": "/home/devvindan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d806895eb7046a01b6c3699ac480e4aa/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
+        "merged": "/home/devvindan/pomodoro/app/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/home/devvindan/pomodoro/app/src/main/res/drawable/logo.png"
+    },
+    {
         "merged": "/home/devvindan/pomodoro/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "/home/devvindan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d806895eb7046a01b6c3699ac480e4aa/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
     },
@@ -964,6 +968,10 @@
         "source": "/home/devvindan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d806895eb7046a01b6c3699ac480e4aa/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "/home/devvindan/pomodoro/app/build/intermediates/res/merged/debug/raw_bell.mp3.flat",
+        "source": "/home/devvindan/pomodoro/app/src/main/res/raw/bell.mp3"
+    },
+    {
         "merged": "/home/devvindan/pomodoro/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/home/devvindan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d806895eb7046a01b6c3699ac480e4aa/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
@@ -1164,6 +1172,10 @@
         "source": "/home/devvindan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d806895eb7046a01b6c3699ac480e4aa/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
+        "merged": "/home/devvindan/pomodoro/app/build/intermediates/res/merged/debug/anim_rotate.xml.flat",
+        "source": "/home/devvindan/pomodoro/app/src/main/res/anim/rotate.xml"
+    },
+    {
         "merged": "/home/devvindan/pomodoro/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/home/devvindan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d806895eb7046a01b6c3699ac480e4aa/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
@@ -1232,12 +1244,20 @@
         "source": "/home/devvindan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d806895eb7046a01b6c3699ac480e4aa/res/anim/abc_slide_in_top.xml"
     },
     {
+        "merged": "/home/devvindan/pomodoro/app/build/intermediates/res/merged/debug/anim_anim.xml.flat",
+        "source": "/home/devvindan/pomodoro/app/src/main/res/anim/anim.xml"
+    },
+    {
         "merged": "/home/devvindan/pomodoro/app/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_dark.xml.flat",
         "source": "/home/devvindan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/d806895eb7046a01b6c3699ac480e4aa/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "/home/devvindan/pomodoro/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
         "source": "/home/devvindan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ad25438b7882f1a41b66ae12497fdbcd/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/devvindan/pomodoro/app/build/intermediates/res/merged/debug/mipmap-hdpi_pomodoro.png.flat",
+        "source": "/home/devvindan/pomodoro/app/src/main/res/mipmap-hdpi/pomodoro.png"
     },
     {
         "merged": "/home/devvindan/pomodoro/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",

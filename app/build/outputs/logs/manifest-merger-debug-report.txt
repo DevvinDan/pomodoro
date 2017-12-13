@@ -61,9 +61,9 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/devvindan/.gradle/cache
 	android:label
 		ADDED from /home/devvindan/pomodoro/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /home/devvindan/pomodoro/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/devvindan/pomodoro/app/src/main/AndroidManifest.xml:9:9-45
 	android:icon
-		ADDED from /home/devvindan/pomodoro/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/devvindan/pomodoro/app/src/main/AndroidManifest.xml:7:9-40
 	android:allowBackup
 		ADDED from /home/devvindan/pomodoro/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme

@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Pomodoro Timer</string>
-    <string name="start_button">Start</string>
+    <string name="start_button">Start work</string>
+    <string name="start_short">Start short break</string>
+    <string name="start_long">Start long break</string>
     <string name="stop_button">Stop</string>
     <string name="pause_button">Pause</string>
     <string name="back_button">Back</string>
@@ -12,5 +14,12 @@
     <string name="info_app">The Pomodoro Technique is a time management method developed by
         Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into
         intervals, traditionally 25 minutes in length, separated by short breaks.</string>
+    <string name="settings_work">Work: </string>
+    <string name="settings_shot_break">Short break: </string>
+    <string name="settings_long_break">Long break: </string>
+    <string name="work_label">WORK</string>
+    <string name="short_label">SHORT BREAK</string>
+    <string name="long_label">LONG BREAK</string>
+
 </resources>
 
